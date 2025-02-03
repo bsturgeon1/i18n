@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'tap:i18n',
+  name: 'bst:i18n',
   summary: 'A comprehensive internationalization solution for Meteor',
-  version: '2.0.1',
-  git: 'https://github.com/TAPevents/tap-i18n'
+  version: '1.0.0',
+  git: 'https://github.com/bsturgeon1/i18n'
 });
 
 both = ['server', 'client'];
