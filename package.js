@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'bst:i18n',
+  name: 'bsturgeon1:i18n',
   summary: 'A comprehensive internationalization solution for Meteor',
   version: '1.0.0',
   git: 'https://github.com/bsturgeon1/i18n'
